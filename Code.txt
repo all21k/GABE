@@ -147,7 +147,7 @@
                                                 "hometown": "Kyles Ford",
                                                 "ratTalent": "0",
                                                 "baselinePrestige": "0",
-                                                "name": "Kirby Smart",
+                                                "name": "John Van Dam",
                                                 "contractYear": "0"
                                         },
                                         "name": "Georgia Bulldogs",
@@ -308,7 +308,7 @@
                                 },
                                 {
                                         "abbreviation": "MISS",
-                                        "prestige": "65",
+                                        "prestige": "0",
                                         "hexColor": "#14213D",
                                         "offCoordinator": {
                                                 "contractLength": "10",
@@ -351,7 +351,7 @@
                                                 "hometown": "Shelton",
                                                 "ratTalent": "0",
                                                 "baselinePrestige": "0",
-                                                "name": "Lane Kiffin",
+                                                "name": "Chris Jacobs",
                                                 "contractYear": "0"
                                         },
                                         "name": "Ole Miss Rebels",
@@ -410,7 +410,7 @@
                                 },
                                 {
                                         "abbreviation": "MSST",
-                                        "prestige": "60",
+                                        "prestige": "0",
                                         "hexColor": "#660000",
                                         "offCoordinator": {
                                                 "contractLength": "10",
